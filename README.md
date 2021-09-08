@@ -1,4 +1,4 @@
 # NETFLIX-CLONE
 NETFLIX-CLONE USING HTML, CSS AND JS
 
-https://ttnq6.csb.app/
+https://codesandbox.io/s/netflix-clone-ttnq6?file=/index.html
